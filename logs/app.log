@@ -8,3 +8,14 @@
 2026-04-01 02:54:39,046 - INFO - Recommendations generated for user 2
 2026-04-01 02:54:40,839 - INFO - Recommendations generated for user 3
 2026-04-01 02:54:42,733 - INFO - Recommendations generated for user 4
+2026-04-01 03:10:54,409 - INFO - Application started.
+2026-04-01 03:10:56,376 - WARNING - Invalid input: q
+2026-04-01 03:10:58,245 - WARNING - Invalid input: q1
+2026-04-01 03:10:59,497 - INFO - Recommendations generated for user 1
+2026-04-01 03:11:01,565 - INFO - Recommendations generated for user 2
+2026-04-01 03:12:42,289 - INFO - Application started.
+2026-04-01 07:28:29,484 - INFO - Application started.
+2026-04-01 07:29:41,021 - INFO - Recommendations generated for user 1
+2026-04-01 07:29:56,391 - INFO - Recommendations generated for user 2
+2026-04-01 07:30:08,586 - INFO - Recommendations generated for user 4
+2026-04-01 07:30:19,651 - INFO - Chart displayed.
