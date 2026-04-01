@@ -1,0 +1,5 @@
+{
+    "app_name": "RecommenderSystem",
+    "version": "1.0.0",
+    "data_file": "data/purchases.csv"
+}
