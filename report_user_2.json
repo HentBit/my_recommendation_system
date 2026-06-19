@@ -1,0 +1,9 @@
+{
+    "app": "RecommenderSystem",
+    "version": "1.0.0",
+    "target_user_id": 2,
+    "similar_user_id": 4,
+    "recommended_products": [
+        103
+    ]
+}

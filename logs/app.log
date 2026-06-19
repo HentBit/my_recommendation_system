@@ -19,3 +19,19 @@
 2026-04-01 07:29:56,391 - INFO - Recommendations generated for user 2
 2026-04-01 07:30:08,586 - INFO - Recommendations generated for user 4
 2026-04-01 07:30:19,651 - INFO - Chart displayed.
+2026-04-01 07:53:20,492 - ERROR - Data file missing during recommendation attempt.
+2026-04-01 08:09:05,379 - INFO - Rec success for user 1
+2026-04-01 08:09:09,766 - INFO - Rec success for user 2
+2026-04-01 08:19:18,391 - INFO - Rec success for user 1
+2026-04-01 08:19:22,602 - INFO - Rec success for user 2
+2026-04-01 08:19:25,329 - INFO - Rec success for user 4
+2026-04-01 08:38:49,026 - INFO - Rec success for user 1
+2026-04-01 09:14:12,757 - INFO - Rec success for user 1
+2026-06-19 08:59:51,456 - INFO - Application started. Version 1.1 updated.
+2026-06-19 08:59:57,719 - INFO - Chart displayed.
+2026-06-19 08:59:58,632 - INFO - Recommendations generated for user 1
+2026-06-19 09:00:04,109 - INFO - Recommendations generated for user 2
+2026-06-19 09:00:07,744 - INFO - Recommendations generated for user 3
+2026-06-19 09:00:09,968 - INFO - Recommendations generated for user 1
+2026-06-19 09:00:15,249 - INFO - Recommendations generated for user 2
+2026-06-19 09:00:15,949 - INFO - Report exported successfully for user 2
